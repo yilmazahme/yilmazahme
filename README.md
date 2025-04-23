@@ -17,7 +17,7 @@ I'm a senior undergraduate student at **Istanbul Technical University**, special
 ## 🎓 Education
 **Istanbul Technical University**  
 B.Sc. in Electronics and Communication Engineering  
-**Expected Graduation:** 2025
+**Expected Graduation:** 2026
 
 ---
 
