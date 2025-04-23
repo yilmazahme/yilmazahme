@@ -1,11 +1,17 @@
 ## 👋 Hello, I'm Ahmet Yusuf Yılmaz
 
 
-<img align="right" alt="Analog IC Design" width="350" style="margin-left: 20px;" src="https://www.allaboutcircuits.com/uploads/articles/Widlar_wasn%E2%80%99t_a_fan_of_digital_circuits.jpg">
+<img align="right" alt="Analog IC Design" width="350" height="350" style="margin-left: 20px;" src="https://www.allaboutcircuits.com/uploads/articles/Widlar_wasn%E2%80%99t_a_fan_of_digital_circuits.jpg">
 
 I'm a senior undergraduate student at **Istanbul Technical University**, specializing in **Electronics and Communication Engineering**. My primary focus lies in **Analog Integrated Circuit (IC) Design**, where I explore the design and analysis of precision analog systems. I am particularly interested in analog front-end circuits for signal acquisition and power management solutions.
 
----
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ## 🧠 Academic Interests
 - Analog Integrated Circuit Design
