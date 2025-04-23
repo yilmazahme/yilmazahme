@@ -11,7 +11,8 @@ I'm a senior undergraduate student at **Istanbul Technical University**, special
 <br>
 <br>
 <br>
-
+<br>
+<br>
 
 ## 🧠 Academic Interests
 - Analog Integrated Circuit Design
